@@ -12,6 +12,20 @@
 2. Explique porque testes podem ser considerados tanto uma atividade de verificação como de validação de software. Qual tipo de teste é mais adequado se o objetivo for verificação ?
 Qual tipo de teste é mais adequado se o objetivo for validar um sistema de software ?
 
+                Um software é considerado validado quando o mesmo cumpre o as expectativas
+                do cliente, para garantir que isso aconteça é muito comum existir testes
+                de release onde uma equipe de teste independente testa uma versão completa
+                do sistema e verifica se o sistema atende aos requisitos dos stakeholders
+                ou pode existir testes de usuários, onde potenciais usuários do sistema
+                testam o sistema e reportam bugs e comportamentos inadequados do sistema.
+
+                Um software é considerado verificado quando o mesmo possui testes que
+                demostram o funcionamento de cada unidade ou classe, módulo e sistema,
+                onde o testes do sistemas são testes que demonstram que a relações entre
+                os módulos estão acontecendo como o esperado. Para verificar o sistema
+                é muito comúm a utilização de testes automatizados, tanto para a 
+                a verificação de classes, módulos.  
+
 3. Por que testes não conseguem provar a ausência de bugs ?
 
         Para provar que uma aplicação funciona você Obrigatoriamente,
@@ -31,7 +45,13 @@ Qual tipo de teste é mais adequado se o objetivo for validar um sistema de soft
 
 5. Se considerarmos o contexto histórico, por que foi natural que os primeiros processos de desenvolvimento de software tivessem características sequenciais e fossem baseados em planejamento e documentação detalhados ?
 
-        Não sei 
+        O Modelo Sequencial Linear também chamado de cascata, foi o primeiro modelo mais
+        amplamente usado devido ao fato da sua fácil compreensão, fácil estimação de tempo.
+        Em uma época onde não se tinha muito conhecimento sobre programação de software,
+        simplicidade no modelo de desenvolvimento reina. Segundo McCONNEL, Steve em
+        Rapid development. Redmond, WA: Microsoft Press, 1996. Cascata é aconselhado quando
+        sua équipe é tecnicamente fraca. 
+
 
 6. Refactoring é uma transformação de código que preserva comportamento. Qual o
 significado da expressão preservar comportamento? Na prática, qual restrição ela impõe a uma operação de refactoring ?
