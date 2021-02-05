@@ -70,16 +70,29 @@ significado da expressão preservar comportamento? Na prática, qual restrição
 7. Dê exemplos de sistemas A (Acute, ou críticos) e B (Business, ou comerciais) com os quais já tenha interagido.
 
      Sistemas A:  [cinemática de um braço robótico](https://github.com/samuel-cavalcanti/Self-Learning-in-the-Inverse-Kinematics-of-Robotic-Arm),
-     [Robô seguidor de linha (Projeto URA)](https://github.com/samuel-cavalcanti/Toninho), [Filtro de Conteúdo adulto +18](https://github.com/samuel-cavalcanti/teddy_bear_filter)  
+     [Robô seguidor de linha (Projeto URA)](https://github.com/samuel-cavalcanti/Toninho),  
      Sistemas B: [Elasticsearch, Logstash e Kibana](https://www.elastic.co/pt/what-is/elk-stack)
 
 8. Dê exemplos de sistemas C (casuais) que você já tenha desenvolvido.
 
-- [Operação Leva Jeito Segurança de redes](https://github.com/samuel-cavalcanti/seguranca_de_redes_IMD/blob/master/hash/hash.md)
-- [Make CD List](https://github.com/samuel-cavalcanti/DCA0212.1_Circuitos_Digitais_Pratica/tree/master/make_cd_list)
-- [minigrep rust I/O Project](https://github.com/samuel-cavalcanti/rust-activites/tree/main/book_projects/minigrep)
-- preguiça.......
-9.  Em 2015, descobriu-se que o software instalado em mais de 11 milhões de carros da
+- [__rust-activities__ Resolvendo atividades propostas pelo livro The Rust Programming language](https://github.com/samuel-cavalcanti/rust-activities)  
+- [__exemplos_tdd__ Implementações dos códigos do livro TDD Desenvolvimento Guiado por Testes kent beck](https://github.com/samuel-cavalcanti/exemplos_tdd)  
+- [__DuckDuckGo-Image-Search-API__ API para Download de imagens no https://duckduckgo.com/](https://github.com/samuel-cavalcanti/DuckDuckGo-Image-Search-API)  
+- [__FindByColor__ Com a Proposta de axilar as aulas de Computação Numérica na Universidade Federal do Rio Grande do Norte. Foi desenvolvido um aplicativo que possui a função de rastrear um determinado Objeto pela sua cor](https://play.google.com/store/apps/details?id=cavalcanti.samuel.findbycolor2&hl=pt_BR&gl=US)
+
+- [__teddy bear filter__ Teddy Bear Filter é um Bot no telegram que recebe uma imagem e diz se é ou não um conteúdo pornográfico](https://github.com/samuel-cavalcanti/teddy_bear_filter)  
+
+- [__an-chrome-extension__ Essa é uma aplicação que utiliza os classificadores do tensor hub e o framework Tensorflow JS para a criação de uma extensão chrome que filtre toda imagens](https://github.com/samuel-cavalcanti/an-chrome-extension)  
+
+- [__Fuzzy and reinforment learning__ Desviando de obstáculos com aprendizado por reforço e logica fuzzy](https://github.com/samuel-cavalcanti/Fuzzy-and-reinforment-learning)
+
+- [__web scraping google geocoder__ Uma aplicação simples que utilizar Selenium e Beautiful Soup para fazer geocoding com a API da google (eticamente duvidoso)](https://github.com/samuel-cavalcanti/web_scraping_google_geocoder)
+
+- [__DATAJS__ Visualizador para a Rede neural SOM (kohonen map)](https://github.com/samuel-cavalcanti/DataJS)
+
+- São por volta 50 repositories e nem listei os cursos de harvard.
+
+9. Em 2015, descobriu-se que o software instalado em mais de 11 milhões de carros da
 Volkswagen detectava quando eles estavam sendo testados em um laboratório de
 certificação. Nessas situações, o carro emitia poluentes dentro das normas legais. Fora do
 laboratório, emitia-se mais poluentes, para melhorar o desempenho. Ou seja, o código
