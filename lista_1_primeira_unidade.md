@@ -52,7 +52,6 @@ Qual tipo de teste é mais adequado se o objetivo for validar um sistema de soft
         Rapid development. Redmond, WA: Microsoft Press, 1996. Cascata é aconselhado quando
         sua équipe é tecnicamente fraca. 
 
-
 6. Refactoring é uma transformação de código que preserva comportamento. Qual o
 significado da expressão preservar comportamento? Na prática, qual restrição ela impõe a uma operação de refactoring ?
 
