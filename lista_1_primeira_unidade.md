@@ -90,7 +90,7 @@ significado da expressão preservar comportamento? Na prática, qual restrição
 
 - [__DATAJS__ Visualizador para a Rede neural SOM (kohonen map)](https://github.com/samuel-cavalcanti/DataJS)
 
-- São por volta 50 repositories e nem listei os cursos de harvard.
+- São por volta 50 repositories e nem listei os cursos de harvard. #ReiDosProjetinhos
 
 9. Em 2015, descobriu-se que o software instalado em mais de 11 milhões de carros da
 Volkswagen detectava quando eles estavam sendo testados em um laboratório de
