@@ -3,4 +3,4 @@
 ## Primeira Unidade
 
 - [Primeira lista](lista_1_primeira_unidade.md)
-- TODO segunda lista
+- [Segunda Lista](lista_2_primeira_unidade.md)
