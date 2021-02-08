@@ -32,3 +32,11 @@
 6. Por que métodos como o Processo Unificado (UP) e Espiral não são considerados ágeis? E qual a diferença deles para o Modelo Waterfall ?
 
 7. Historicamente, a introdução de tecnologia provocou mudanças profundas no mercado de trabalho e, pelo menos temporariamente, deixou muitas pessoas desempregadas. Discuta se a introdução da automação extensiva em processos pode vir a ter as mesmas consequências para os engenheiros de software. Se sua resposta for não, justifique. Se você acha que sim, que vai reduzir as oportunidades de emprego, é ética a resistência passiva ou ativa, pelos engenheiros afetados, à introdução dessa tecnologia ?
+
+    Pergunta mal elaborada onde sim ou não ambos estão certos. A figura da automação sem
+    contexto especifico pode proporcionar o bem estar, melhor a qualidade de vida, melhor
+    qualidade do trabalho e mais empregos na área de desenvolvimento de software como também
+    pode ser utilizado para prejudicar a maioria em prol de uma minoria. Um exemplo positivo
+    podemos citar o desenvolvimento de ferramentas que verificação a qualidade do código
+    testado com o [codecov](https://codecov.io/) ou outras ferramentas de DevOps.
+    Assim como utilização de [inteligencia artificial para a automação de seleção de currículos pode ser sexista](https://olhardigital.com.br/2018/10/10/noticias/inteligencia-artificial-da-amazon-exercitava-preconceito/). (Utilização de engenheiros de software em seleções de empregos na sua respectiva área é uma prática muito comum).
