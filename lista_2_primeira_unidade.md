@@ -33,7 +33,7 @@
 
 7. Historicamente, a introdução de tecnologia provocou mudanças profundas no mercado de trabalho e, pelo menos temporariamente, deixou muitas pessoas desempregadas. Discuta se a introdução da automação extensiva em processos pode vir a ter as mesmas consequências para os engenheiros de software. Se sua resposta for não, justifique. Se você acha que sim, que vai reduzir as oportunidades de emprego, é ética a resistência passiva ou ativa, pelos engenheiros afetados, à introdução dessa tecnologia ?
 
-    Pergunta mal elaborada onde sim ou não ambos estão certos. A figura da automação sem
+    Sim ou não ambos estão certos. A figura da automação sem
     contexto especifico pode proporcionar o bem estar, melhor a qualidade de vida, melhor
     qualidade do trabalho e mais empregos na área de desenvolvimento de software como também
     pode ser utilizado para nós prejudicar. Um exemplo positivo
