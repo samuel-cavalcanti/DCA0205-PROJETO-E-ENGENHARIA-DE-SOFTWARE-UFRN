@@ -36,7 +36,9 @@
     Pergunta mal elaborada onde sim ou não ambos estão certos. A figura da automação sem
     contexto especifico pode proporcionar o bem estar, melhor a qualidade de vida, melhor
     qualidade do trabalho e mais empregos na área de desenvolvimento de software como também
-    pode ser utilizado para prejudicar a maioria em prol de uma minoria. Um exemplo positivo
+    pode ser utilizado para nós prejudicar. Um exemplo positivo
     podemos citar o desenvolvimento de ferramentas que verificação a qualidade do código
-    testado com o [codecov](https://codecov.io/) ou outras ferramentas de DevOps.
-    Assim como utilização de [inteligencia artificial para a automação de seleção de currículos pode ser sexista](https://olhardigital.com.br/2018/10/10/noticias/inteligencia-artificial-da-amazon-exercitava-preconceito/). (Utilização de engenheiros de software em seleções de empregos na sua respectiva área é uma prática muito comum).
+    testado com o [codecov](https://codecov.io/) ou outras ferramentas de DevOps. Um exemplo
+    negativo foi a utilização de [inteligencia artificial para a automação de seleção de currículos pode ser sexista](https://olhardigital.com.br/2018/10/10/noticias/inteligencia-artificial-da-amazon-exercitava-preconceito/). (Utilização de engenheiros de software em seleções de empregos na sua respectiva área é uma prática muito comum).
+
+    __OBS:__ se você está com medo de uma certa IA programando, significa que você é um péssimo programador e eu não gosto de você (como programador).
