@@ -28,20 +28,18 @@ que uma nova realise do seu software pode conter.
 
 ## 3. Descreva as principais atividades do processo de projeto de software e as saídas dessas atividades  
 
-   __AVISO:__ a palavra arquivo nesse contexto, refere-se a idéia do unix: [Everything is a file](https://en.wikipedia.org/wiki/Everything_is_a_file)
+   1. __Projeto de arquitetura__. No qual você pode identificar a estrutura geral do sistema, os componentes principais (algumas vezes, chamados subsistemas ou módulos), seus relacionamentos e como eles são distribuídos.  
+   _Saída:_ separação de responsabilidades em forma de sistemas Módulos ou subsistemas e a forma como eles se se relacionam.
 
-   1. __Especificação de software__. A funcionalidade do software e as restrições a seu funcionamento devem ser definidas.
-   _Saída_: arquivos que demonstram a funcionalidade do software e suas limitações
+   1. __Projeto de interface__. No qual você define as interfaces entre os componentes do sistema. Essa especificação de interface deve ser inequívoca. Com uma interface precisa, um componente pode ser usado de maneira que outros componentes não precisam saber como ele é implementado. Uma vez que as especificações de interface são acordadas, os componentes podem ser projetados e desenvolvidos simultaneamente.
+   _Saída:_ Interfaces, ou a separação de responsabilidades dentro de um módulo ou subsistemas.
 
-   1. __Projeto e implementação de software__. O software deve ser produzido para atender às especificações
-   _Saída_: código fonte, configurações de ambiente, diagrama de classes e
-   todos os arquivos que constituem a solução ou sua documentação.
+   1. __Projeto de componentes__. no qual você toma cada componente do sistema e projeta seu funcionamento. Pode-se tratar de uma simples declaração da funcionalidade que se espera implementar com o projeto específico para cada programador. Pode, também, ser uma lista de alterações a serem feitas em um componente reusável ou um modelo de projeto detalhado. O modelo de projeto pode ser usado para gerar automaticamente uma implementação.  
+   _Saída_: Os detalhes da implementação, a forma como é executada ou realizada a responsabilidade.
 
-   1. __Validação de software__. O software deve ser validado para garantir que atenda às demandas do cliente.
-   _Saída_: arquivos que demonstram e verificam que o funcionamento do sistema está de acordo com o esperado pelo cliente.
-
-   1. __Evolução de software__. O software deve evoluir para atender às necessidades de mudança dos clientes.
-   _Saída_: arquivos, responsáveis por delimitar a versão de um software
+   1. __Projeto de banco de dados__. No qual você projeta as estruturas de dados do sistema e como eles devem ser representados em um banco de dados. Novamente, o trabalho aqui depende da existência de um banco de dados a ser reusado ou da criação de um novo banco de dados.  
+   _Saída_: A forma como é representado as entidades do sistema e como elas serão armazenadas,
+   caso precise.
 
 ## 4. Explique por que os sistemas desenvolvidos como protótipos normalmente não devem ser usados como sistemas de produção
 
