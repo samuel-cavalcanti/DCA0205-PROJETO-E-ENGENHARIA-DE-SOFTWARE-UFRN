@@ -28,7 +28,10 @@ que uma nova realise do seu software pode conter.
 
 ## 3. Descreva as principais atividades do processo de projeto de software e as saídas dessas atividades  
 
-   ![](modelo_geral_de_processo.png)
+   <img src="modelo_geral_de_processo.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;">
 
    1. __Projeto de arquitetura__. No qual você pode identificar a estrutura geral do sistema, os componentes principais (algumas vezes, chamados subsistemas ou módulos), seus relacionamentos e como eles são distribuídos.  
    _Saída:_ separação de responsabilidades em forma de sistemas Módulos ou subsistemas e a forma como eles se se relacionam.
