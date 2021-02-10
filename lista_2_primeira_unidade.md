@@ -28,6 +28,8 @@ que uma nova realise do seu software pode conter.
 
 ## 3. Descreva as principais atividades do processo de projeto de software e as saídas dessas atividades  
 
+   ![](modelo_geral_de_processo.png)
+
    1. __Projeto de arquitetura__. No qual você pode identificar a estrutura geral do sistema, os componentes principais (algumas vezes, chamados subsistemas ou módulos), seus relacionamentos e como eles são distribuídos.  
    _Saída:_ separação de responsabilidades em forma de sistemas Módulos ou subsistemas e a forma como eles se se relacionam.
 
@@ -91,3 +93,10 @@ tendo "informações do presente" é possível "prever o futuro". Atualmente só
 leis físicas causais. [Sinais e Sistemas Lineares](https://www.amazon.com.br/Sinais-Sistemas-Lineares-B-P-Lathi-ebook/dp/B016V9PZYE)
 
 __OBS:__ se você está com medo de uma certa IA programando, significa que você é um péssimo programador e eu não gosto de você (como programador).
+
+
+## Referências:
+
+[SOMMERVILLE Engenharia de Software](engenhariaSoftwareSommerville.pdf)
+
+[SINAIS E SISTEMAS LINEARES SEGUNDA EDIÇÃO](Sinais%20e%20Sistemas%20Lineares%20-%202.ed_%20-%20B.%20P.%20Lathi.pdf)
