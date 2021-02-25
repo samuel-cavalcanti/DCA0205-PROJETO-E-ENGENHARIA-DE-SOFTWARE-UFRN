@@ -2,5 +2,6 @@
 
 ## Primeira Unidade
 
-- [Primeira lista](lista_1_primeira_unidade.md)
-- [Segunda Lista](lista_2_primeira_unidade.md)
+- [Primeira Lista, Introdução a engenharia de Software](lista_1_primeira_unidade.md)
+- [Segunda Lista, Processos de Desenvolvimento de Software](lista_2_primeira_unidade.md)
+- [Terceira Lista, Metodologias Ágeis](lista_3_primeira_unidade.md)
