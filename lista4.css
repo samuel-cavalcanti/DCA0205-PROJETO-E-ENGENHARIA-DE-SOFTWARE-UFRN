@@ -1,0 +1,21 @@
+@media (prefers-color-scheme: light) {
+    .container {
+        border: 1px solid;
+        padding: 10px;
+    }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    .container {
+        border: 1px solid white;
+        padding: 10px;
+    }    
+}
+
+
+.container-header {
+    margin-bottom: 15px;
+}
+
+

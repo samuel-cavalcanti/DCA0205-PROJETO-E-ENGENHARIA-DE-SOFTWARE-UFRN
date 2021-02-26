@@ -1,3 +1,14 @@
+---
+title: "Title"
+author: "Author"
+date: "DATE"
+output: 
+  html_document:
+     css: lista4.css
+     self_contained: no
+
+---
+
 # Quarta Lista Engenharia de Requisitos
 
 ## 1. [POSCOMP 2010, adaptado] Sobre Engenharia de Requisitos, marque Verdadeiro (V) ou Falso (F)
@@ -33,12 +44,12 @@ documento de requisitos pode levar a grandes custos relacionados ao retrabalho.
 
 ## 9. O seguinte caso de uso possui apenas o fluxo normal. Escreva então algumas extensões para ele
 
-<div style="border: 1px solid; padding: 10px">
-    <div id="header" style="margin-bottom: 15px" >
+<div class="container">
+    <div class="container-header">
         <div>Comprar Livro</div>
         <div>Ator: Usuário da loja virtual</div>
     </div> 
-    <div style="margin-bottom: 5px" >Fluxo normal:</div>
+    <div class="container-header" >Fluxo normal:</div>
     <ol>
         <li>Usuário pesquisa catálogo de livros</li>
         <li>Usuário seleciona livros e coloca no carrinho de compra</li>
