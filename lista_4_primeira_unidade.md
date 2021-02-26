@@ -1,14 +1,3 @@
----
-title: "Title"
-author: "Author"
-date: "DATE"
-output: 
-  html_document:
-     css: lista4.css
-     self_contained: no
-
----
-
 # Quarta Lista Engenharia de Requisitos
 
 ## 1. [POSCOMP 2010, adaptado] Sobre Engenharia de Requisitos, marque Verdadeiro (V) ou Falso (F)
