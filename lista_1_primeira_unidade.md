@@ -108,20 +108,3 @@ else
 ```
 
 O que você faria se seu chefe pedisse para escrever um if como o acima ?
-
-Criar, usar softwares que desrespeitam as leis atuais ? COM CERTEZA !  
-Possuo um série de projetos open source e closed source que claramente
-desrespeita as leis de propriedade intelectual como meu:
-- [(Desatualizado) My libgen calibre plugin](https://github.com/samuel-cavalcanti/MY-libgen-calibre-plugin) que facilida o download de livros piratas na internet
-
-- [scrip que baixa livro no Passei Direto](https://github.com/samuel-cavalcanti/scripts/tree/master/livroPasseiDireto) um exemplo de código que mostra como baixar livros e documentos no [passei direto](https://www.passeidireto.com/)
-
-- e muitos outros que devem estar por ai... no meu github :smiley:
-
-Mas eu escreveria o if a cima ? NUNCA, ~~enfim a hipocrisia~~
-
-Eu não sigo regras porque são regras, eu sigo quando vejo que elas fazem sentido, poluir o meu ambiente ou denegrir o proxímo é algo que destrói uma
-sociedade ou o outro, então eu não sigo ordens ou regras porque são regras.
-Não me importo se não é "certo" as pessoas terem acesso a livros que não
-compraram, as consequência das pessoas terem acesso a artigos e livros sem
-pagar vale muito mais apena.
